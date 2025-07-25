@@ -14,7 +14,7 @@ class _SubscriptionState extends State<Subscription> {
       backgroundColor: Colors.black,
 
       appBar: AppBar(
-        leading: Container(
+        leading: SizedBox(
           height: 70,
           width: 70,
           child: Image.network(
@@ -217,7 +217,7 @@ class _SubscriptionState extends State<Subscription> {
               Row(
                 mainAxisAlignment: MainAxisAlignment.start,
                 children: [
-                  Container(
+                  SizedBox(
                     height: 70,
                     //width: 80,
                     child: Image.network(

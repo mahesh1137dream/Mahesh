@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:get/get_core/src/get_main.dart';
-import 'package:http/http.dart';
 import 'package:youtube/color/app_color.dart';
 import 'package:youtube/controller/login_controller.dart';
 import 'package:youtube/routes/app_routes.dart';

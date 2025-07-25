@@ -1,12 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:get/get_core/src/get_main.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
 import 'package:youtube/screens/create_new_account_screen.dart';
 import 'package:youtube/screens/forgot_password_screen.dart';
-import 'package:youtube/screens/homepage_getx.dart';
 import 'package:youtube/screens/library.dart';
 import 'package:youtube/screens/login_screen.dart';
-import 'package:youtube/screens/nomal_screen.dart';
 import 'package:youtube/screens/notifications.dart';
 import 'package:youtube/screens/shorts.dart';
 import 'package:youtube/screens/subscription.dart';

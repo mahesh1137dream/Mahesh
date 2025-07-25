@@ -125,7 +125,7 @@ class _YoutubeState extends State<Youtube> {
             Row(
               mainAxisAlignment: MainAxisAlignment.start,
               children: [
-                Container(
+                SizedBox(
                   height: 70,
                   //width: 80,
                   child: Image.network(

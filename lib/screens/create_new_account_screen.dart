@@ -149,7 +149,7 @@ class _CreateNewAccountScreenState extends State<CreateNewAccountScreen> {
                             : null,
               ),
               const SizedBox(height: 32),
-              Container(
+              SizedBox(
                 width: double.infinity,
                 height: 48,
                 child: ElevatedButton(
